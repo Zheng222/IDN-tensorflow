@@ -10,7 +10,7 @@ python test.py
 ```
 
 ## Training
-* Download [Training dataset]()
+* Download [Training dataset](https://drive.google.com/open?id=12hOYsMa8t1ErKj6PZA352icsx9mz1TwB)
 * Modify `config.py` (if you want to train x4 model, `config.TRAIN.hr_img_path = '/path/to/DIV2K_train_HR/'` `config.TRAIN.checkpoint_dir = 'checkpoint_x4/'` `config.VALID.hr_img_path = '/path/to/DIV2K_valid_HR/'` `config.VALID.lr_img_path = '/path/to/DIV2K_valid_LR_x4/'`) and `train_SR.py` (`scale = 4`)
 * Run training:
 ```bash
