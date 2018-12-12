@@ -1,5 +1,5 @@
 # IDN-tensorflow
-[Original Caffe version](https://github.com/Zheng222/IDN-Caffe)
+[[Original Caffe version]](https://github.com/Zheng222/IDN-Caffe)
 ## Testing
 * Install Tensorflow 1.11, Matlab R2017a
 * Download [Test datasets](https://drive.google.com/open?id=1_K6mchwDGOQMIXuBIGrlDA4EAYgbtdmU)
