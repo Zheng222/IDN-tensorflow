@@ -32,6 +32,13 @@ The following PSNR/SSIMs are evaluated on Matlab R2017a and the code can be refe
 | <sub> DIV2K </sub> | <sub>×3</sub> | <sub>34.24 / 0.9260<sub> | <sub>30.27 / 0.8408</sub>|<sub>29.03 / 0.8038</sub>|<sub>27.99 / 0.8489</sub>|
 | <sub> 291 </sub> | <sub>×4</sub> | <sub>31.82 / 0.8903<sub> | <sub>28.25 / 0.7730</sub>|<sub>27.41 / 0.7297</sub>|<sub>25.41 / 0.7632</sub>|
 | <sub> DIV2K </sub> | <sub>×4</sub> | <sub>31.99 / 0.8928<sub> | <sub>28.52 / 0.7794</sub>|<sub>27.52 / 0.7339</sub>|<sub>25.92 / 0.7801</sub>|
+
+## Model Parameters
+| <sub>Scale</sub>| <sub>Model size</sub> |
+|:---:|:---:|
+| <sub>×2</sub> | <sub>**579,276**</sub> |
+| <sub>×3</sub> | <sub>**587,931**</sub> |
+| <sub>×4</sub> | <sub>**600,048**</sub> |
 ## Citation
 
 If you find IDN useful in your research, please consider citing:
